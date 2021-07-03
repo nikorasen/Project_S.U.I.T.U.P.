@@ -1,0 +1,13 @@
+http://feeds.twit.tv/sn.xml
+https://www.secureworks.com/rss?feed=research&category=advisories
+http://tools.cisco.com/security/center/psirtrss20/CiscoSecurityAdvisory.xml
+https://tools.cisco.com/security/center/psirtrss20/AlertRSS.xml
+https://securingtomorrow.mcafee.com/feed
+https://www.darkreading.com/rss_simple.asp?f_n=644&f_ln=Attacks/Breaches
+https://threatpost.com/category/malware/feed
+https://threatpost.com/category/vulnerabilities/feed
+https://www.us-cert.gov/ncas/all.xml
+https://blogs.microsoft.com/feed
+https://www.linuxjournal.com/node/feed
+https://www.techrepublic.com/rssfeeds/articles/
+https://www.techrepublic.com/rssfeeds/topic/security/
